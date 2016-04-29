@@ -1,0 +1,6 @@
+---
+version: '2'
+services:
+  mnts3fs:
+    build: ./src
+    image: highskillz/mount-s3fs
