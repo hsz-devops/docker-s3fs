@@ -1,0 +1,4 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/childsb/s3fs-container
+	branch = master
